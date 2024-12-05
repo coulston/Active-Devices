@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-12-02T03:50:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.5723,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "audioRev5"
+        },
+        "Owner": "chris coulston <chris.coulston@gmail.com>",
+        "Size": {
+            "X": 88.9,
+            "Y": 71.12
+        }
+    }
+}
