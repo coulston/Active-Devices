@@ -1,3 +1,5 @@
-
-/Labs/lab*/*Solutions.docx
-/Labs/lab*/*OnlySolutions.docx
+# source documents #
+###################
+/Labs/lab*/*.docx
+/Labs/lab*/*OnlySolutions.*
+/Labs/lab*/img
