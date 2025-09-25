@@ -3,3 +3,7 @@
 /Labs/lab*/*.docx
 /Labs/lab*/*OnlySolutions.*
 /Labs/lab*/img
+
+/workbook/*/*.docx
+/workbook/*/*Solutions.*
+/workbook/*/img
