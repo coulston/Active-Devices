@@ -1,7 +1,7 @@
 # source documents #
 ###################
 /Labs/lab*/*.docx
-/Labs/lab*/*OnlySolutions.*
+/Labs/lab*/*Solutions.*
 /Labs/lab*/img
 
 /workbook/*/*.docx
