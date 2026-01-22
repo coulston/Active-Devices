@@ -7,3 +7,8 @@
 /workbook/*/*.docx
 /workbook/*/*Solutions.*
 /workbook/*/img
+
+/*Resources/*.lck
+/*Resources/*.s#*
+/*Resources/*.b#*
+/*Resources/*.scr
