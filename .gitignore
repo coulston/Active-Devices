@@ -12,3 +12,6 @@
 /*Resources/*.s#*
 /*Resources/*.b#*
 /*Resources/*.scr
+
+# lock files
+.~lock*
