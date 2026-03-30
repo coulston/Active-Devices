@@ -1,4 +1,4 @@
-Here is a set of resources while a faculty member at the Colorado School of Mines.  These resources come in two flavors:
+Here is a set of resources that I've developed while a faculty member at the Colorado School of Mines.  These resources come in two flavors:
 
 ## Laboratories
 
