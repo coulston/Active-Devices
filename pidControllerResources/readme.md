@@ -21,10 +21,10 @@ The PID Controller board is designed as a practical laboratory experience for st
 * Hardware
     * PID Controller [Schematic](./pidControllerRev8schematic.pdf) and [Layout](./pidControllerRev8layout.pdf)
     * Source files to build your own
-       * EAGLE CAD [Schematic](./manufacture/pidControllerRev8.brd) and [Layout](./manufacture/pidControllerRev8.lay)
+       * EAGLE CAD [Schematic](./manufacture/pidControllerRev8.sch) and [Layout](./manufacture/pidControllerRev8.brd)
        * [Gerber Files](./manufacture/pidControlRev8Gerber)
        * [Bill of Materials](./manufacture/pidControllerMaster_BOM.xlsx)
-       * [Centroid File](./manufcture/pidController_Centroid.xlsx)
+       * [Centroid File](./manufacture/pidController_Centroid.xlsx)
 
 # Respository Contents
 
