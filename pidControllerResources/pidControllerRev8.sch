@@ -26374,6 +26374,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="RAMP" library="SparkFun-Connectors" deviceset="CONN_02" device="LOCK"/>
 <part name="PWM" library="SparkFun-Connectors" deviceset="CONN_02" device="LOCK"/>
 <part name="OUT" library="SparkFun-Connectors" deviceset="CONN_02" device="LOCK"/>
+<part name="S3" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-5.2MM" value="CLEAR"/>
 </parts>
 <sheets>
 <sheet>
@@ -26880,6 +26881,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <attribute name="VALUE" x="287.274" y="264.16" size="1.778" layer="96" font="vector" rot="R270"/>
 <attribute name="NAME" x="289.56" y="264.668" size="1.778" layer="95" font="vector"/>
 </instance>
+<instance part="S3" gate="G$1" x="101.6" y="45.72" smashed="yes" rot="R180">
+<attribute name="NAME" x="101.6" y="44.196" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="101.6" y="46.228" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -27127,6 +27132,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="121.92" y1="66.04" x2="127" y2="66.04" width="0.1524" layer="91"/>
 <junction x="121.92" y="66.04"/>
 <label x="127" y="66.04" size="1.778" layer="95" xref="yes"/>
+<pinref part="S3" gate="G$1" pin="1"/>
+<wire x1="106.68" y1="45.72" x2="121.92" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="45.72" x2="121.92" y2="53.34" width="0.1524" layer="91"/>
+<junction x="121.92" y="53.34"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -27385,6 +27394,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="96.52" y1="53.34" x2="91.44" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="53.34" x2="91.44" y2="63.5" width="0.1524" layer="91"/>
 <junction x="91.44" y="63.5"/>
+<pinref part="S3" gate="G$1" pin="2"/>
+<wire x1="96.52" y1="45.72" x2="91.44" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="45.72" x2="91.44" y2="53.34" width="0.1524" layer="91"/>
+<junction x="91.44" y="53.34"/>
 </segment>
 </net>
 <net name="N$18" class="0">
