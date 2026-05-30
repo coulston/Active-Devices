@@ -1,0 +1,16 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Chris\Documents\GitHub\Actve-Devices\Labs\lab11 curveTracer SchmittTriggerOscillator\ltSpice\schmittSimulation.net
+Start Time: Wed May 27 18:06:25 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.363 seconds.
+
+Files loaded:
+C:\Users\Chris\Documents\GitHub\Actve-Devices\Labs\lab11 curveTracer SchmittTriggerOscillator\ltSpice\schmittSimulation.net
+C:\Users\Chris\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Chris\AppData\Local\LTspice\lib\sub\LT1013.sub
+
