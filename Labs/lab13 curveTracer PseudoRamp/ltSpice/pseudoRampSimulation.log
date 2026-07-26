@@ -1,21 +1,21 @@
-LTspice 26.0.2 for Windows
-Circuit: C:\Users\Chris\Documents\GitHub\Actve-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net
-Start Time: Thu May 28 09:01:40 2026
-C:\Users\Chris\Documents\GitHub\Actve-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net(10): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
-X§U4 N005 N006 0 T2N7002AK_G0_00 ;§pnba 3)1)2
+LTspice 26.0.1 for Windows
+Circuit: D:\git\Active-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net
+Start Time: Mon Jul 13 15:05:40 2026
+D:\git\Active-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net(10): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+X§U4 N004 N005 0 T2N7002AK_G0_00 ;§pnba 3)1)2
                                         ^
 solver = Normal
-Maximum thread count: 8
+Maximum thread count: 20
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.244 seconds.
+Total elapsed time: 0.418 seconds.
 
 Files loaded:
-C:\Users\Chris\Documents\GitHub\Actve-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net
-C:\Users\Chris\AppData\Local\LTspice\lib\cmp\standard.dio
-C:\Users\Chris\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\LVMOS\T2N7002AK_G0_00_enc.lib
-C:\Users\Chris\AppData\Local\LTspice\lib\sub\LT1013.sub
-C:\Users\Chris\AppData\Local\LTspice\lib\sub\NE555.sub
+D:\git\Active-Devices\Labs\lab13 curveTracer PseudoRamp\ltSpice\pseudoRampSimulation.net
+C:\Users\chris\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\chris\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\LVMOS\T2N7002AK_G0_00_enc.lib
+C:\Users\chris\AppData\Local\LTspice\lib\sub\LT1013.sub
+C:\Users\chris\AppData\Local\LTspice\lib\sub\NE555.sub
 
