@@ -14,6 +14,6 @@ This curve tracer is based on the YouTuber w2aew video
 The hardware for this series of labs is located in this repo, [here](https://github.com/coulston/Active-Devices/tree/main/curveTracerResources).
 Click the video below to be taken to a video overview of this laboratory.
 
-[![YouTube](https://img.youtube.com/vi/oDtQ2bS_qQ8/0.jpg)](https://www.youtube.com/watch?v=oDtQ2bS_qQ8)
+[![YouTube](https://img.youtube.com/vi/dFe3HhHlrAs/0.jpg)](https://www.youtube.com/watch?v=dFe3HhHlrAs)
 
 All this material is avaible under CC BY-NC-SA 4.0
