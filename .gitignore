@@ -3,9 +3,9 @@
 /Labs/lab*/*.docx
 /Labs/lab*/*Solutions.*
 /Labs/lab*/img
+/Labs/lab*/ltSpice
 
-/workbook/*/*.docx
-/workbook/*/*Solutions.*
+/workbook/*/*Solutions*.*
 /workbook/*/img
 
 /*Resources/*.lck
