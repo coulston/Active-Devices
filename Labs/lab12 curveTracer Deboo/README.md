@@ -1,8 +1,8 @@
 # BJT Curve Tracer - Lab 3 The Deboo Integrator
 
-This is the third in a series of laboratories aimed at building a BJT curve tracer.  In this lab you will
-analyze, simulate and assemble a circuit based on the classic 555 timer that generates a low duty-cycle
-squarewave that will be an integral subsystem in the curve tracer circuit.  As you work you way through
+This is the third in a series of junior year Electrical Enineering laboratories aimed at building a BJT curve tracer. 
+In this lab you will analyze, simulate and assemble a Deboo Integratorm that will build a period staircase 
+waveform with the help of the 555 Timer and Schmitt Trigger Relaxation Oscillator.  As you work you way through
 the lab you will learn how to:
 * Use a software tool to perform time domain analysis of an electronic circuit.
 *	Analyze and design a circuit containing resistors and op amps.
